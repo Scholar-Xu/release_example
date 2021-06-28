@@ -13,7 +13,7 @@
 
     <scm>
         <connection>scm:git:ssh://git@github.com:Scholar-Xu/release_example.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:Scholar-Xu/release_example.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:Scholar-Xu/release_example.git</developerConnection>
       <tag>release-example-1.0</tag>
   </scm>
 
