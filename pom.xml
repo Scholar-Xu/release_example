@@ -4,7 +4,7 @@
 
     <groupId>com.scholar.release</groupId>
     <artifactId>release-example</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -14,7 +14,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com:Scholar-Xu/release_example.git</connection>
         <developerConnection>scm:git:git@github.com:Scholar-Xu/release_example.git</developerConnection>
-      <tag>release-example-1.0</tag>
+      <tag>release-example-1.1</tag>
   </scm>
 
     <dependencies>
